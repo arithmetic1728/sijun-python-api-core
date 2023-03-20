@@ -32,3 +32,5 @@ python compute.py >& compute.log
 
 Then open the logs, search for `x-goog-api-client` and `user-agent` headers.
 
+For reauth, run `python reauth_sample.py >& reauth.log`
+
